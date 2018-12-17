@@ -35,7 +35,7 @@ JJUG CCC 2018 Fall 登壇資料まとめ
 ## 16:45-17:30
 - [【A+B】オイラ大地の18年拡張し続けているECサイトをSpring Bootとk8s on Azureでマイクロサービス化する事例](https://www.slideshare.net/hiroakikobayashi1806/18ecspring-bootk8s-on-azure) オイシックス・ラ・大地株式会社
 - [【G+H】200,000 Req/sec をさばく広告入札システムを支えるパフォーマンスチューニング術 ](https://www.slideshare.net/hiroiso/200000-reqsec) ウルシステムズ株式会社
-- [【M】WebARで作るJJUGロゴかDukeが飛び出るカード](https://www.slideshare.net/hfujikawa77/webar-duke) Hideyuki Fujikawa
+- [【M】WebARで作るDukeが飛び出すカード](https://www.slideshare.net/hfujikawa77/webar-duke-126078786) Hideyuki Fujikawa
 
 ## 17:45-18:30
 - [【A+B】GCを発生させないJVMとコーディングスタイル](https://www.slideshare.net/kenjikazumura/gcjvm) 数村憲治
